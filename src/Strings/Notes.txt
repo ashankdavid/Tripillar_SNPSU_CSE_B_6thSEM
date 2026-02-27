@@ -1,0 +1,15 @@
+// Created
+// length()
+// charAt()
+// toUpperC
+// equals()
+// compareTo()
+// substring()
+//contain()
+//indexOf()
+// replace()
+// startWith() and endWith()
+// trim()
+//concat()
+//isEmpty()
+// Split()
