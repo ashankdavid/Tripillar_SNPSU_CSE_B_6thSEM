@@ -1,4 +1,4 @@
-package GarbageCollection.Eligibility;
+package GarbageCollection.Demo;
 
 public class Demo {
     public void finalize(){
