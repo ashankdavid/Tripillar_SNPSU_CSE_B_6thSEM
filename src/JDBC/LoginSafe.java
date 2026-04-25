@@ -7,7 +7,7 @@ public class LoginSafe {
 
         String url = "jdbc:mysql://localhost:3306/demo_db";
         String user = "root";
-        String passwordDB = "your_password";
+        String passwordDB = "admin1234";
 
         String username = "' OR '1'='1";  // attacker input
         String password = "anything";
